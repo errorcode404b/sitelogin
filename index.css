@@ -1,0 +1,93 @@
+body {
+  background-color: black;
+  text-align: center;
+}
+
+/* .bkgd1 {
+  position: ;
+  background-color: rgb(80, 126, 187);
+  margin: auto;
+  padding-block: 6%;
+} */
+
+/* .bkgd2 {
+  top: 32px;
+  left: 45px;
+  position: absolute;
+  background-color: white;
+  margin: auto;
+  padding-block: 1%;
+} */
+
+/* section {
+  width:100%;
+  margin-left:auto;
+  margin-right:auto;
+  padding-bottom: 10px;
+} */
+
+.bkgd2 {
+  background-color: white;
+  width: 300px;
+  /* border: 30px solid rgb(80, 126, 187); */
+  padding: 50px;
+  margin: 285px;
+  border-style: solid;
+  border-color: rgb(80, 126, 187);;
+  border-width: 25px 25px 25px 25px; 
+}
+
+.bkgd1 {
+  /* padding-top: 10px; */
+  /* padding: 10px; */
+  /* text-align: center; */
+  position: sticky;
+  width: 106%;
+  bottom: 10px;
+}
+
+
+/* .signup {
+  position: absolute;
+  width: 50%;
+  bottom: 10px;
+} */
+
+/* .bkgd2 {
+  top: 175px;
+  left: 203px;
+  position: absolute;
+  background-color: white;
+  margin: 18%;
+  padding-block: 3%;
+} */
+
+ .div1 {
+  width:100%;
+  margin-left:auto;
+  margin-right:auto;
+  padding-bottom: 10px;
+}
+
+input {
+  background-color: ghostwhite;
+}
+
+button {
+  width: 50%;
+  box-sizing:initial;
+  color: white;
+  background: rgb(4, 136, 218);
+}
+
+.login {
+  font-family: 'Times New Roman', Times, serif;
+  color: grey;
+  font-size: 50px;
+  text-align: center;
+  padding-bottom: 0px;
+}
+
+p {
+  padding: 10px;
+}

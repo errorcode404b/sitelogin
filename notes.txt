@@ -1,0 +1,6 @@
+https://www.tutorialrepublic.com/snippets/designs/simple-login-form-with-blue-background.png 
+Instructions for the assignment: 
+Recreate the look of the login page using HTML and CSS 
+In Javascript check that the username matches “goodusername” and the password matches “goodpassword” 
+If both match console log a message saying “Access Granted” 
+If either one is wrong console log a message describing which input has the wrong value 
